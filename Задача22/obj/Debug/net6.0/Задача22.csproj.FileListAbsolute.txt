@@ -1,0 +1,15 @@
+C:\Users\Kostas\Desktop\Geekbrains\C#\Семинар 3 (примеры и дз)\Seminar\Задача22\obj\Debug\net6.0\Задача22.csproj.AssemblyReference.cache
+C:\Users\Kostas\Desktop\Geekbrains\C#\Семинар 3 (примеры и дз)\Seminar\Задача22\obj\Debug\net6.0\Задача22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kostas\Desktop\Geekbrains\C#\Семинар 3 (примеры и дз)\Seminar\Задача22\obj\Debug\net6.0\Задача22.AssemblyInfoInputs.cache
+C:\Users\Kostas\Desktop\Geekbrains\C#\Семинар 3 (примеры и дз)\Seminar\Задача22\obj\Debug\net6.0\Задача22.AssemblyInfo.cs
+C:\Users\Kostas\Desktop\Geekbrains\C#\Семинар 3 (примеры и дз)\Seminar\Задача22\obj\Debug\net6.0\Задача22.csproj.CoreCompileInputs.cache
+C:\Users\Kostas\Desktop\Geekbrains\C#\Семинар 3 (примеры и дз)\Seminar\Задача22\bin\Debug\net6.0\Задача22.exe
+C:\Users\Kostas\Desktop\Geekbrains\C#\Семинар 3 (примеры и дз)\Seminar\Задача22\bin\Debug\net6.0\Задача22.deps.json
+C:\Users\Kostas\Desktop\Geekbrains\C#\Семинар 3 (примеры и дз)\Seminar\Задача22\bin\Debug\net6.0\Задача22.runtimeconfig.json
+C:\Users\Kostas\Desktop\Geekbrains\C#\Семинар 3 (примеры и дз)\Seminar\Задача22\bin\Debug\net6.0\Задача22.dll
+C:\Users\Kostas\Desktop\Geekbrains\C#\Семинар 3 (примеры и дз)\Seminar\Задача22\bin\Debug\net6.0\Задача22.pdb
+C:\Users\Kostas\Desktop\Geekbrains\C#\Семинар 3 (примеры и дз)\Seminar\Задача22\obj\Debug\net6.0\Задача22.dll
+C:\Users\Kostas\Desktop\Geekbrains\C#\Семинар 3 (примеры и дз)\Seminar\Задача22\obj\Debug\net6.0\refint\Задача22.dll
+C:\Users\Kostas\Desktop\Geekbrains\C#\Семинар 3 (примеры и дз)\Seminar\Задача22\obj\Debug\net6.0\Задача22.pdb
+C:\Users\Kostas\Desktop\Geekbrains\C#\Семинар 3 (примеры и дз)\Seminar\Задача22\obj\Debug\net6.0\Задача22.genruntimeconfig.cache
+C:\Users\Kostas\Desktop\Geekbrains\C#\Семинар 3 (примеры и дз)\Seminar\Задача22\obj\Debug\net6.0\ref\Задача22.dll
